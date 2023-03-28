@@ -2,8 +2,23 @@
 Full Stack React Ecommerce Website
 
 # Feature
-
-<ul dir="auto">
+<li>
+  "hI"
+  </li>
+  <li>
+  "hI"
+  </li>
+  <li>
+  "hI"
+  </li>
+  <li>
+  "hI"
+  </li>
+  <li>
+  "hI"
+  </li>
+  
+# About
   <li>
   "hI"
   </li>
@@ -19,5 +34,4 @@ Full Stack React Ecommerce Website
   <li>
   "hI"
   </li>
-<ul>
 
