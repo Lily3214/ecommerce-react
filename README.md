@@ -27,7 +27,7 @@ Fully responsive design
   </li>
   
   
-# About
+# Built with
   <li>
   "hI"
   </li>
