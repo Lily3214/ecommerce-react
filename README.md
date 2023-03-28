@@ -6,7 +6,7 @@ React responsive Ecommerce website made from scratch based on the lessons I lear
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Lily3214/ecommerce-react/blob/main/src/assets/images/ecommerce.jpg2.JPG"><img src="https://github.com/Lily3214/ecommerce-react/blob/main/src/assets/images/ecommerce.jpg2.JPG" alt="image" style="max-width:100%"></a></p>
 
 
-# Feature
+# Features
 <li>
 SignUp and Login using Firebase
   </li>
