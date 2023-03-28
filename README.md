@@ -1,7 +1,7 @@
 # BrandShop Ecommerce
 Full Stack React Ecommerce Website
 
-# About
+# Built with
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -24,9 +24,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   "hI"
   </li>
 <ul>
-  
-# Built with
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
