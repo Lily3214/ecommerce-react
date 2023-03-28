@@ -7,12 +7,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Features
 
-Player choice and win state kept track of via state
-API integration to pull questions from various categories and difficulty levels (thus the title "Kitchen Sink Quiz")
-Reactive UI elements to indicate player choice, correct and incorrect responses, etc.
-Functional answer tally display upon submit
-Restart button to instantly load more questions for another round
-Clean, aesthetically pleasing design
+Hooks / useState, useEffect
+Context
+Ref
+PropTypes
+Custom hooks
+React router
+Custom helper functions
+Reducer (async checkout mocking)
+n
 
 # Built with
 
