@@ -37,10 +37,4 @@ Redux Toolkit
   <li>
 Firebase
   </li>
-  <li>
-  "hI"
-  </li>
-  <li>
-  "hI"
-  </li>
 
