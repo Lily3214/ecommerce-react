@@ -34,7 +34,7 @@ Modern UI/UX Design
 ReactJs
   </li>
   <li>
-Redux Toolkit
+Redux
   </li>
   <li>
 Firebase
