@@ -7,15 +7,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Features
 
-Hooks / useState, useEffect
-Context
-Ref
-PropTypes
-Custom hooks
-React router
-Custom helper functions
-Reducer (async checkout mocking)
-n
+<ul dir="auto">
+  <li>
+    "hI"
+    </li>
 
 # Built with
 
