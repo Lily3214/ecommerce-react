@@ -8,7 +8,7 @@ React Responsive Ecommerce Website made from scratch based on the lessons I lear
 
 # Feature
 <li>
-SignUp and Login using OpenDB API
+SignUp and Login using Firebase
   </li>
   <li>
 Add and remove products from the shopping cart
@@ -29,13 +29,13 @@ Fully responsive design
   
 # Built with
   <li>
-  "hI"
+ReactJs
   </li>
   <li>
-  "hI"
+Redux Toolkit
   </li>
   <li>
-  "hI"
+Firebase
   </li>
   <li>
   "hI"
