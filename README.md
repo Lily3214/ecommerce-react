@@ -1,5 +1,4 @@
-# Kitchen Sink Quiz
-
+# BrandShop Ecommerce
 Full Stack React Ecommerce Website
 
 # About
