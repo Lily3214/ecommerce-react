@@ -26,7 +26,7 @@ Checkout and Billing Information Form
 Fully Responsive Design
   </li>
    <li>
-Modern UI/UX design
+Modern UI/UX Design
   </li>
   
 # Built with
