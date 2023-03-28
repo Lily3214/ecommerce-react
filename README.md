@@ -8,22 +8,22 @@ Responsive Ecommerce website made from scratch based on the lessons I learned fr
 
 # Features
 <li>
-SignUp and Login using Firebase
+SignUp and Login Using Firebase
   </li>
   <li>
-Add and remove products from the shopping cart
+Add and Remove Products From The Shopping Cart
   </li>
   <li>
-Filter products by categories
+Filter Products By Categories
   </li>
   <li>
-Product details and Product reviews page
+Product Details and Product Reviews Page
   </li>
   <li>
-Checkout and Billing information form
+Checkout and Billing Information Form
   </li>
   <li>
-Fully responsive design
+Fully Responsive Design
   </li>
    <li>
 Modern UI/UX design
