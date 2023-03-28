@@ -1,5 +1,5 @@
 # BrandShop Ecommerce
-Full Stack React Ecommerce Website made from scratch based on the lessons I learned from the React course.
+React Responsive Ecommerce Website made from scratch based on the lessons I learned from the React course. This project contains a Home page, Shop page, Product details page, Checkout page, Cart page, Sign in and Signup page.
 
 # Feature
 <li>
