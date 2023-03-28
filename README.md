@@ -2,7 +2,7 @@
 React Responsive Ecommerce Website made from scratch based on the lessons I learned from the React course. This website contains a Home page, Shop page, Product details page, Cart page, Sign in and Signup page, Checkout page.
 
 ### Live Demo: <a href="lily3214.github.io/ecommerce-react/" rel="nofollow">Ecommerce-React</a>
-<img src="C:\Users\Sunyeong\Maltimart-ecommerce-start-up\src\assets\images\ecommerce.jpg2.JPG" alt="image info" style="max-width: 100%;">
+<img src="C:/Users/Sunyeong/Maltimart-ecommerce-start-up/src/assets/images/ecommerce.jpg2.JPG" alt="image info" style="max-width: 100%;">
 # Feature
 <li>
 SignUp and Login using OpenDB API
