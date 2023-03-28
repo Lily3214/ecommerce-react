@@ -20,6 +20,8 @@ Checkout and Billing information form
   <li>
 Fully responsive design
   </li>
+  
+  
 # About
   <li>
   "hI"
