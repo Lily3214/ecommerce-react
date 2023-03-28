@@ -1,7 +1,7 @@
 # BrandShop Ecommerce
 React Responsive Ecommerce Website made from scratch based on the lessons I learned from the React course. This website contains a Home page, Shop page, Product details page, Cart page, Sign in and Signup page, Checkout page.
 
-### Live Demo: <a href="https://lily3214.github.io/ecommerce-react/" rel="nofollow" target="_blank">Ecommerce-React</a>
+### Live Demo: <a href="https://lily3214.github.io/ecommerce-react/" target="_blank" rel="nofollow">Ecommerce-React</a>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Lily3214/ecommerce-react/blob/main/src/assets/images/ecommerce.jpg2.JPG"><img src="https://github.com/Lily3214/ecommerce-react/blob/main/src/assets/images/ecommerce.jpg2.JPG" alt="image" style="max-width:100%"></a></p>
 
