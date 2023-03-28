@@ -3,7 +3,7 @@ React Responsive Ecommerce Website made from scratch based on the lessons I lear
 
 ### Live Demo: <a href="lily3214.github.io/ecommerce-react/" rel="nofollow">Ecommerce-React</a>
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Lily3214/ecommerce-react/blob/main/src/assets/images/ecommerce.jpg2.JPG"><img src="https://github.com/Lily3214/ecommerce-react/blob/main/src/assets/images/ecommerce.jpg2.JPG" alt="image" style="max-width: 80%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Lily3214/ecommerce-react/blob/main/src/assets/images/ecommerce.jpg2.JPG"><img src="https://github.com/Lily3214/ecommerce-react/blob/main/src/assets/images/ecommerce.jpg2.JPG" alt="image" style="max-width: 50%;"></a></p>
 
 
 # Feature
