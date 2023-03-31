@@ -20,7 +20,7 @@ Filter Products By Categories
 Product Details and Product Reviews Page
   </li>
   <li>
-Checkout and Billing Information Form
+Checkout and Billing Information Form Page
   </li>
   <li>
 Fully Responsive Design
