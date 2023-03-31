@@ -14,7 +14,7 @@ SignUp and Login Using Firebase
 Add and Remove Products From The Shopping Cart
   </li>
   <li>
-Filter Products By Categories
+Search and Filter Products By Categories
   </li>
   <li>
 Product Details and Product Reviews Page
