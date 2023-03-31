@@ -23,7 +23,7 @@ Product Details and Product Reviews Page
 Checkout and Billing Information Form Page
   </li>
   <li>
-Fully Responsive Design
+Fully Responsive Design Web, App
   </li>
    <li>
 Modern UI/UX Design
