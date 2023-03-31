@@ -22,12 +22,6 @@ Product Details and Product Reviews Page
   <li>
 Checkout and Billing Information Form Page
   </li>
-  <li>
-Fully Responsive Design Web, App
-  </li>
-   <li>
-Modern UI/UX Design
-  </li>
   
 # Built with
   <li>
