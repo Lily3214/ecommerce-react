@@ -12,7 +12,7 @@ A fully responsive E-commerce website built with React, Redux, and Firebase with
 SignUp and Login
   </li>
   <li>
-Add or Remove a Product From The Cart
+Add or Remove a Product from the Cart
   </li>
     <li>
 Item Search Bar
@@ -21,20 +21,18 @@ Item Search Bar
 Filter Items By Category
   </li>
    <li>
-View Product Details And Write a Review.
+View Product Details and Write a Review.
   </li>
-  
+     <li>
+Checkout Page and Enter Billing Information.
+  </li>
 # Built with
   <li>
-HTML
+ReactJS
   </li>
   <li>
-CSS
+Redux
   </li>
   <li>
-Javascript
+Firebase
   </li>
-   <li>
-Deploy with Google Sheets
-  </li>
-
