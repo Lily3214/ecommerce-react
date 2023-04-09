@@ -1,5 +1,5 @@
 
-# Portfolio
+# Ecommerce Website
  A fully responsive Portfolio website built with HTML, CSS, JavaScript, and Google Sheets with advanced UI/UX design features.
 
 ### Live Demo: <a href="https://lily3214.github.io/Portfolio/" target="_blank" rel="nofollow">Portfolio</a>
