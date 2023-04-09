@@ -9,19 +9,19 @@ A fully responsive E-commerce website built with React, Redux, and Firebase with
 
 # Features
 <li>
-About Me - Introduce Myself and My Skills.
+SignUp and Login
   </li>
   <li>
-Project Lists and Project Details
+Add or Remove a Product From The Cart
   </li>
     <li>
-Resume
+Item Search Bar
   </li>
   <li>
-Social Media Accounts
+Filter Items By Category
   </li>
    <li>
-Contact Me Form Using Google Sheets
+View Product Details And Write a Review.
   </li>
   
 # Built with
