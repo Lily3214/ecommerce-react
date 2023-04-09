@@ -1,6 +1,6 @@
 
 # Ecommerce Website
- A fully responsive Portfolio website built with HTML, CSS, JavaScript, and Google Sheets with advanced UI/UX design features.
+A fully responsive E-commerce website built with React, Redux, and Firebase with advanced UI/UX design features. This website contains a Home page, Shop page, Product details page, Cart page, Login and Signup page, Checkout page.
 
 ### Live Demo: <a href="https://lily3214.github.io/ecommerce-react/" target="_blank" rel="nofollow">Ecommerce Website</a>
 
