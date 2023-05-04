@@ -1,8 +1,6 @@
 
-# Ecommerce Website
-A fully responsive E-commerce website built with React, Redux, and Firebase with advanced UI/UX design features. This website contains a Home page, Shop page, Product details page, Cart page, Login and Signup page, Checkout page.
-
-### Live Demo: <a href="https://lily3214.github.io/ecommerce-react/" target="_blank" rel="nofollow">Ecommerce Website</a>
+# Accounting Ledger Application
+This Accounting Ledger application built with Java can track all financial transactions for businesses and individuals.
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Lily3214/ecommerce-react/blob/main/src/assets/images/ecommerce.jpg2.JPG"><img src="https://github.com/Lily3214/ecommerce-react/blob/main/src/assets/images/ecommerce.jpg2.JPG" alt="image" style="max-width:100%"></a></p>
 
